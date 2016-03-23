@@ -1,5 +1,7 @@
 # ExpressiveSwift
 
+<img src="https://img.shields.io/badge/Swift-2-brightgreen.svg" alt="Swift 2"> 
+
 Welcome!
 
 ExpressiveSwift is a collection of µ-frameworks, each one solving a specific problem with straightforward, concise, readable and safe code.
