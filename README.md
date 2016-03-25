@@ -13,13 +13,13 @@ We value simplicity and pragmatism. We try to adopt Swift paradigms and idioms w
 
 We follow [semantic versioning](http://semver.org) and additionally assign a production readiness status to each µ-framework:
 
-* stable: (1) is used in multiple production apps, (2) is well-documented, (3) has reached a stable API we're generally satisfied with. This is a requirement to release version 1.0.0.
+* <img alt="stable" src="https://img.shields.io/badge/status-stable-brightgreen.svg"></a>: (1) is used in multiple production apps, (2) is well-documented, (3) has reached a stable API we're generally satisfied with. This is a requirement to release version 1.0.0.
 
-* beta: (1) is used in multiple production apps, (2) documentation effort is in progress, (3) may still undergo heavy or incompatible changes.
+* <img alt="beta" src="https://img.shields.io/badge/status-beta-yellowgreen.svg"></a>: (1) is used in multiple production apps, (2) documentation effort is in progress, (3) may still undergo heavy or incompatible changes.
 
-* alpha: (1) seems to work, (2) is successfully used by an app under development, (3) can be adopted if you don't mind digging into and debugging the code of the framework occasionally, (4) may undergo radical changes.
+* <img alt="alpha" src="https://img.shields.io/badge/status-alpha-orange.svg"></a>: (1) seems to work, (2) is successfully used by an app under development, (3) can be adopted if you don't mind digging into and debugging the code of the framework occasionally, (4) may undergo radical changes.
 
-* development: not ready for consumption yet, unless you're ready to join the development effort.
+* <img alt="development" src="https://img.shields.io/badge/status-development-red.svg"></a>: not ready for consumption yet, unless you're ready to join the development effort.
 
 
 ## Our µ-frameworks
