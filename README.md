@@ -8,6 +8,8 @@ ExpressiveSwift is a collection of µ-frameworks, each one solving a specific pr
 
 We value simplicity and pragmatism. We try to adopt Swift paradigms and idioms where it makes sense, but we do _not_ endorse functional programming extravaganza or veering into the darkest corners of the language.
 
+© 2016, Andrey Tarantsov. Distributed under the [MIT license](LICENSE).
+
 
 ## Versions and statuses
 
